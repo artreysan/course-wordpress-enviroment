@@ -1,0 +1,8 @@
+/uploads.ini
+/wp-admin
+/wp-content
+/wp-includes
+*.php
+readme.html
+license.txt
+.htaccess

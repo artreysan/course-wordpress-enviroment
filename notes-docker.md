@@ -20,3 +20,17 @@ Esto ocurre:
 2. Los contenedores se inician y quedan corriendo en segundo plano.
 
 3. Puedes verificar que los contenedores están corriendo con docker ps.
+
+
+```
+usr: artreysan
+pwd: password$123artu
+```
+
+```
+docker compose stop
+```
+
+```
+ompose rm  
+```
